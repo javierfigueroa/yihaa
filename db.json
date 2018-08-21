@@ -1,14 +1,18 @@
 {
-  "ngs/auth/rp/newtest/otp/credentialid": [
-    {
-    "id": "OID%3A%2Fad%2Fnewtest%3Ae018cbdb-d8aa-4d74-99b4-6a1ec2730d7c",     
-    "deviceName": "joshtest2@klopez",
-    "credentialId": "3LES43M3UBMX7RQJ"
-  },
-    {
-    "id": "OID%3A%2Fad%2Fnewtest%3Aca4f2123-29dd-48a3-8f48-0b8f26dc93a3",     
-    "deviceName": "joshtest@klopez",
-    "credentialId": "3LES43M3UBMX7RQJ"
+  "ngs": {
+    "auth": {
+      "rp" : {
+        "newtest" : {
+          "otp": {
+            "credentialid": [
+              {
+              "id": "OID%3A%2Fad%2Fnewtest%3Ae018cbdb-d8aa-4d74-99b4-6a1ec2730d7c",     
+              "deviceName": "joshtest2@klopez",
+              "credentialId": "3LES43M3UBMX7RQJ"
+            }]
+           }
+         }
+      }
+    }
   }
-  ]
 }
