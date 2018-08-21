@@ -1,18 +1,7 @@
 {
-  "ngs": {
-    "auth": {
-      "rp" : {
-        "newtest" : {
-          "otp": {
-            "credentialid": [
-              {
-              "id": "OID%3A%2Fad%2Fnewtest%3Ae018cbdb-d8aa-4d74-99b4-6a1ec2730d7c",     
-              "deviceName": "joshtest2@klopez",
-              "credentialId": "3LES43M3UBMX7RQJ"
-            }]
-           }
-         }
-      }
-    }
-  }
+  "ngs%2Fauth%2Frp%2Fnewtest%2Fotp%2Fcredentialid%2F": [{
+        "id": "OID%3A%2Fad%2Fnewtest%3Ae018cbdb-d8aa-4d74-99b4-6a1ec2730d7c",     
+        "deviceName": "joshtest2@klopez",
+        "credentialId": "3LES43M3UBMX7RQJ"
+   }]
 }
