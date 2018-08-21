@@ -1,9 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "ngs/auth/rp/newtest/otp/credentialid": [{
+    "id": "OID%3A%2Fad%2Fnewtest%3Ae018cbdb-d8aa-4d74-99b4-6a1ec2730d7c",     
+    "deviceName": "joshtest2@klopez",
+    "credentialId": "3LES43M3UBMX7RQJ"
+  }]
 }
